@@ -2,5 +2,5 @@ name: gitignore parser
 author: githubtraining
 description: validation action for this exercise
 runs:
-  using: node12
+  using: node16
   main: "dist/index.js"
